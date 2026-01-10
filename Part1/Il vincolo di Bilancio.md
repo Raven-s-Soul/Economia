@@ -30,7 +30,13 @@ $$
 \begin{gather}
 \text {Esempio Vincolo di bilancio}
 \\
+\begin{cases}
 P_zZ + P_pP \leq M 
+\\
+Z \geq 0
+\\
+P \geq 0
+\end{cases}
 \end{gather}
 $$
 
