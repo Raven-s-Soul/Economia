@@ -1,5 +1,7 @@
 # Il vincolo di Bilancio
 
+> Prima parte: Cap 1 (sola lettura introduttiva) e Cap 4: Par 4.1
+
 > **L’economia** tratta l’allocazione di risorse scarse.
 > 
 
