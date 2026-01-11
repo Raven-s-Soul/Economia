@@ -1,5 +1,7 @@
 # Beni sostituti e complementi
 
+> Cap 4: par. 4.2 e 4.3; Capitolo 3; 
+
 <aside>
 
 >- Principi del processo decisionale
