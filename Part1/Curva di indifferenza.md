@@ -1,5 +1,7 @@
 # Curva di indifferenza
 
+> Cap 4: par. 4.2 e 4.3; Capitolo 3; 
+
 ![Curva di indifferenza](./imgs/Curva%20di%20indifferenza.png)
 
 Il paniere accessibile è una scelta interna a esso prende il nome di **soluzione interna**, mentre quando è tangente soddisfa la **condizione di tangenza**.
