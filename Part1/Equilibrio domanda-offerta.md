@@ -10,8 +10,13 @@
 - Elasticità della domanda e offerta
 </aside>
 
-$Q^d​=f(P)\text{(domanda decrescente in P)}\\
-Q^s=g(P) \text{(offerta crescente in P)}$
+$$
+\begin{gather}
+Q^d=f(P)\text{(domanda decrescente in P)}
+\\
+Q^s=g(P)\text{(offerta crescente in P)}
+\end{gather}
+$$
 
 L’equilibrio si trova risolvendo:
 
