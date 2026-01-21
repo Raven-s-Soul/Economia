@@ -14,6 +14,8 @@ Il paniere accessibile è una scelta interna a esso prende il nome di **soluzion
 
 **Saggio Marginale** = la quantità di un bene a cui un consumatore rinuncia per avere un'unità in più di un altro, mantenendo la stessa soddisfazione
 
+- U = funzione di utilità
+
 $$
 \begin{gather}
 MRS_{U}= \frac {d Y} {d X}
