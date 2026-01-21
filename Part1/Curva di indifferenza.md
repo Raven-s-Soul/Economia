@@ -4,7 +4,7 @@
 
 ![Curva di indifferenza](./imgs/Curva%20di%20indifferenza.png)
 
-> Un esempio classico di curva di indifferenza regolare è la curva di indifferenza di Cobb Douglas: $\quad \mathnormal{U} (x_1 , x_2) = x_1^\alpha \cdot  x_2^\beta$
+> Un esempio classico di curva di indifferenza regolare è la **curva di indifferenza di Cobb Douglas**: $\quad \mathnormal{U} (x_1 , x_2) = x_1^\alpha \cdot  x_2^\beta$
 
 Il paniere accessibile è una scelta interna a esso prende il nome di **soluzione interna**, mentre quando è tangente soddisfa la **condizione di tangenza**.
 
