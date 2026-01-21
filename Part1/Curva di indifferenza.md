@@ -10,10 +10,38 @@ Il paniere accessibile è una scelta interna a esso prende il nome di **soluzion
 
 - tecnicamente le soluzione interne soddisfano *sempre* le condizione di tangenza.
 
+## Tasso Marginale di Sostituzione (MSR) sulla curva di indifferenza [^1]
+
 **Saggio Marginale** = la quantità di un bene a cui un consumatore rinuncia per avere un'unità in più di un altro, mantenendo la stessa soddisfazione
 
 $$
-MRS_{ZP}= \frac {P_Z} {P_P}
+\begin{gather}
+MRS_{U}= \frac {d Y} {d X}
+\end{gather}
+$$
+
+Poiché lungo una curva di indifferenza l’utilità è costante, vale:
+
+$$
+\begin{gather}
+d U = \frac {\partial U}{\partial X} dX + \frac {\partial U}{\partial Y} dY = 0
+\end{gather}
+$$
+
+allora:
+
+$$
+\begin{gather}
+\frac {d Y} {d X} = - \frac{\partial U/\partial X}{\partial U/\partial Y}
+\end{gather}
+$$
+
+quindi:
+
+$$
+\begin{gather}
+MRS_{U}= \frac {d Y} {d X} = - \frac{\partial U/\partial X}{\partial U/\partial Y}
+\end{gather}
 $$
 
 - Pendenza della curva di indifferenza è l’opposto del saggio marginale di sostituzione.
@@ -102,3 +130,5 @@ Perciò per le soluzioni di frontiera:
 $$
 \frac{MU_Z}{MU_P} \geq \frac{P_Z}{P_P}
 $$
+
+[^1]: appunti di telegram.
