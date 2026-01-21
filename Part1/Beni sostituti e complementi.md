@@ -57,4 +57,12 @@ Il paniere di beni e servizi al consumo è un insieme rappresentativo dei beni e
 >
 > L’aumento dei prezzi del paniere incide sull’insieme di bilancio delle famiglie: a parità di reddito monetario, l’inflazione riduce il potere d’acquisto e restringe l’insieme di bilancio reale, influenzando le scelte di consumo
 
+
+> [!NOTE]
+> ## Cobb-Douglas (esponenziale)
+>$$
+> \quad \mathnormal{U} (x_1 , x_2) = x_1^\alpha \cdot  x_2^\beta
+>$$
+>
+
 [^1]: Dai appunti sul gruppo telegram.
