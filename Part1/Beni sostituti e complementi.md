@@ -39,7 +39,8 @@ Paniere di consumo (Paniere in un periodo di tempo)
 >- Valore positivo, ridurrere le Y
 >- Valore negativo, aumentare le Y
 
-Utilità = soddisfazione → funzioni di utilità
+>Utilità = soddisfazione → funzioni di utilità
+>- U = funzione di utilità
 
 - $MU_X = \frac {\Delta U}{\Delta  X} \to \text {è l'utilità marginale di X }$
 - $MRS_{XY} = \frac {MU_X} {MU_Y}$
