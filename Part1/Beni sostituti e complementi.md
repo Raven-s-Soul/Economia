@@ -37,3 +37,17 @@ Utilità = soddisfazione → funzioni di utilità
 
 - $MU_X = \frac {\Delta U}{\Delta  X} \to \text {è l'utilità marginale di X }$
 - $MRS_{XY} = \frac {MU_X} {MU_Y}$
+
+## Paniere di beni e servizi al consumo[^1]
+
+Il paniere di beni e servizi al consumo è un insieme rappresentativo dei beni e servizi acquistati abitualmente dalle famiglie, costruito sulla base delle loro abitudini di spesa.
+
+>Il paniere non è casuale, ma costruito sulla base di indagini statistiche sui consumi delle famiglie, in modo da riflettere il più fedelmente possibile le loro abitudini di spesa in un determinato periodo e contesto geografico.
+
+> E’ utilizzato da enti come l’ISTAT per calcolare **l’indice dei prezzi al consumo**: confrontando nel tempo il costo del paniere, a parità di quantità, si misura la variazione media dei prezzi.
+> 
+> La variazione percentuale dell’indice fornisce il **tasso di inflazione**, che indica l’aumento o la diminuzione del livello generale dei prezzi.
+>
+> L’aumento dei prezzi del paniere incide sull’insieme di bilancio delle famiglie: a parità di reddito monetario, l’inflazione riduce il potere d’acquisto e restringe l’insieme di bilancio reale, influenzando le scelte di consumo
+
+[^1]: Dai appunti sul gruppo telegram.
