@@ -33,6 +33,12 @@ Paniere di consumo (Paniere in un periodo di tempo)
 >Complementi perfetti:
 >Scarpa destra e scarpa sinistra
 
+>[!TIP]
+>### Come leggerle $MRS_{XY}$
+>Semplice, si legge cosi "variazione di X con un adeguamento di Y":
+>- Valore positivo, ridurrere le Y
+>- Valore negativo, aumentare le Y
+
 Utilità = soddisfazione → funzioni di utilità
 
 - $MU_X = \frac {\Delta U}{\Delta  X} \to \text {è l'utilità marginale di X }$
