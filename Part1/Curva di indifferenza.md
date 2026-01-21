@@ -10,46 +10,6 @@ Il paniere accessibile è una scelta interna a esso prende il nome di **soluzion
 
 - tecnicamente le soluzione interne soddisfano *sempre* le condizione di tangenza.
 
-## Tasso Marginale di Sostituzione (MSR) sulla curva di indifferenza [^1]
-
-**Saggio Marginale** = la quantità di un bene a cui un consumatore rinuncia per avere un'unità in più di un altro, mantenendo la stessa soddisfazione
-
-- U = funzione di utilità
-
-$$
-\begin{gather}
-MRS_{U}= \frac {d Y} {d X}
-\end{gather}
-$$
-
-Poiché lungo una curva di indifferenza l’utilità è costante, vale:
-
-$$
-\begin{gather}
-d U = \frac {\partial U}{\partial X} dX + \frac {\partial U}{\partial Y} dY = 0
-\end{gather}
-$$
-
-allora:
-
-$$
-\begin{gather}
-\frac {d Y} {d X} = - \frac{\partial U/\partial X}{\partial U/\partial Y}
-\end{gather}
-$$
-
-quindi:
-
-$$
-\begin{gather}
-MRS_{U}= \frac {d Y} {d X} = - \frac{\partial U/\partial X}{\partial U/\partial Y}
-\end{gather}
-$$
-
-- Pendenza della curva di indifferenza è l’opposto del saggio marginale di sostituzione.
-
-<aside>
-
 ### Non si intersecano:
 
 - Se due curve si incrociassero, lo stesso paniere avrebbe due livelli di utilità diversi, il che è impossibile.
@@ -95,6 +55,58 @@ $$
 - Il punto ottimale **non è nell’interno della curva di bilancio**, ma su uno degli assi, dove il consumo di un bene = 0.
 - Si dice che l’**ottimo è di frontiera**.
 </aside>
+
+>[!NOTE]
+>## Qual è la relazione tra curva di indifferenza e funzione di utilità? [^1]
+>La funzione di utilità rappresenta analiticamente le preferenze del consumatore, associando a ogni combinazione di beni un livello di soddisfazione:
+>> Una curva di indifferenza è l’insieme di tutte le combinazioni di beni che garantiscono lo stesso livello di utilità. Essa è quindi ottenuta fissando la funzione di utilità a un valore costante: $U(x_1,x_2)=h$
+>
+>> Variando h si ottengono infinite curve di indifferenza e ad ogni curva di indifferenza corrisponde un determinato livello di utilità, e curve di indifferenza più lontane dall’origine rappresentano livelli di utilità più elevati.
+
+
+***
+
+# Tasso Marginale di Sostituzione (MSR) sulla curva di indifferenza [^1]
+
+**Saggio Marginale** = la quantità di un bene a cui un consumatore rinuncia per avere un'unità in più di un altro, mantenendo la stessa soddisfazione
+
+- U = funzione di utilità
+
+$$
+\begin{gather}
+MRS_{U}= \frac {d Y} {d X}
+\end{gather}
+$$
+
+Poiché lungo una curva di indifferenza l’utilità è costante, vale:
+
+$$
+\begin{gather}
+d U = \frac {\partial U}{\partial X} dX + \frac {\partial U}{\partial Y} dY = 0
+\end{gather}
+$$
+
+allora:
+
+$$
+\begin{gather}
+\frac {d Y} {d X} = - \frac{\partial U/\partial X}{\partial U/\partial Y}
+\end{gather}
+$$
+
+quindi:
+
+$$
+\begin{gather}
+MRS_{U}= \frac {d Y} {d X} = - \frac{\partial U/\partial X}{\partial U/\partial Y}
+\end{gather}
+$$
+
+- Pendenza della curva di indifferenza è l’opposto del saggio marginale di sostituzione.
+
+<aside>
+
+***
 
 # Massimizzazione
 
