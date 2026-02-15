@@ -62,4 +62,4 @@ $$
 Elasticità incrociata
 
 >[!CAUTION]
->Tuttavia le funzioni di domanda del tipo $p = \frac{a}{p^b}$ hanno elasticità costante pari a $|b|$ per tutti i valori di $p$.
+>Tuttavia le funzioni di domanda del tipo $q = \frac{a}{p^b}$ hanno elasticità costante pari a $|b|$ per tutti i valori di $p$.
