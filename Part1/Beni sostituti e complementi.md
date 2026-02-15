@@ -63,6 +63,22 @@ Il paniere di beni e servizi al consumo è un insieme rappresentativo dei beni e
 >$$
 > \quad \mathnormal{U} (x_1 , x_2) = x_1^\alpha \cdot  x_2^\beta
 >$$
+
+>[!IMPORTANT]
+># Sostituti[^1] 
+>Si definiscono perfetti sostituti quei beni che il consumatore è disposto a scambiare l'uno con l'altro a un rapporto costante.
+>
+>La funzione di utilità è di tipo lineare $U(x_1,x_2)=ax_1+bx_2$ e il Tasso Marginale di Sostituzione è costante: $MRS = a/b$.
+>
+>Graficamente le curve di indifferenza di beni perfetti sostituti sono delle rette di pendenza $-a/b$
+>
+># Complementari[^1]
+>
+>I beni perfetti complementi sono invece beni che devono essere consumati congiuntamente in **proporzioni fisse** (es. auto e quattro ruote, scarpa sinistra e destra).
+>
+>Un aumento della quantità di un solo bene senza l'aumento proporzionale dell'altro non incrementa l'utilità.
+>
+>Le curve di indifferenza di beni perfetti complementi sono di tipo a L.
 >
 
 [^1]: Dai appunti sul gruppo telegram.
