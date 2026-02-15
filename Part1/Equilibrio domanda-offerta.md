@@ -39,9 +39,9 @@ E^d=\frac {1} {(\Delta P/\Delta Q)} \frac {P}{Q}
 \end{gather}
 $$
 
-- Se  $∣Ed∣>1|E_d| > 1∣Ed∣>1$ : domanda **elastica** → il consumatore reagisce molto al prezzo.
-- Se $∣Ed∣<1|E_d|< 1∣Ed∣<1$ : domanda **an-elastica** → il consumatore reagisce poco.
-- Se  $∣Ed∣=1|E_d| = 1∣Ed∣=1$ : **elasticità unitaria**.
+- Se $E^d < -1 \text{ o } |E^d| > 1$ : domanda **elastica** → il consumatore reagisce molto al prezzo.
+- Se $E^d> -1 \text{ o } |E^d| < 1$ : domanda **an-elastica** → il consumatore reagisce poco.
+- Se $|E^d| = 1$ : **elasticità unitaria**.
 
 $E^s = E^s_p \to \text{ elasticità (al prezzo) della offerta}$
 
@@ -60,3 +60,6 @@ E^d_m = \frac {\Delta Q/Q}{\Delta M/M}
 $$
 
 Elasticità incrociata
+
+>[!CAUTION]
+>Tuttavia le funzioni di domanda del tipo $p = \frac{a}{p^b}$ hanno elasticità costante pari a $|b|$ per tutti i valori di $p$.
