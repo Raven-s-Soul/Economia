@@ -1,4 +1,5 @@
 # Cost Accounting
+> Cap 1: Par 1.3; Cap 4 (eccetto 4.2); Cap 5 tutto;
 
 ## Quale è la definizione generale di costo e cosa si intende per oggetto del costo?
 
