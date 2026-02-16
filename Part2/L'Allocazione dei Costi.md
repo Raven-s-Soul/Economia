@@ -35,12 +35,16 @@
 >1. Nella prima fase tutti i costi indiretti (o generali) di produzione di un periodo contabile sono preliminarmente assegnati ai centri di costo di produzione e di servizio. Successivamente, i costi accumulati nei centri di costo di servizio vengono ribaltati sui centri di costo di produzione, così che al termine di questa fase tutti i costi indiretti risultino concentrati esclusivamente nei centri di produzione.
 >2. Nella seconda fase i costi accumulati in ciascun centro di produzione vengono distribuiti ai prodotti tramite un coefficiente di allocazione, che lega i costi indiretti a una base rappresentativa dell’attività (ore di manodopera, ore macchina, volumi, ecc.). Ogni centro usa la propria base, scelta per riflettere al meglio la relazione tra l’attività e i costi indiretti sostenuti.
 
+## Quali critiche vengono fatte all’allocazione dei costi indiretti su base unica? Si fornisca un esempio
 
+>L’allocazione dei costi indiretti su base unica è eccessivamente semplificata e potenzialmente fuorviante nella misurazione dei costi di prodotto.
 
+>[!TIP]
+>La principale critica è che essa presuppone l’esistenza di un’unica relazione di causalità tra costi indiretti e prodotti, rappresentata da una sola base di allocazione (ad esempio ore MOD). In realtà, i costi indiretti sono spesso generati da attività complesse che non dipendono tutte dalla stessa variabile.
 
+Ad esempio si consideri un’azienda che produce:
+- **Prodotto A**: alta intensità di manodopera, bassa complessità
+- **Prodotto B**:  bassa manodopera, ma alto uso di macchinari e frequente manutenzione
 
-
-
-
-
-
+>[!WARNING]
+>Se i costi indiretti vengono allocati solo in base alle ore di manodopera diretta, il prodotto A riceverà una quota elevata di costi indiretti, mentre il prodotto B ne riceverà pochi, nonostante sia quello che genera realmente più costi indiretti. Il risultato è una distorsione dei costi di prodotto.
