@@ -41,29 +41,56 @@ Il grafico mostra il VAN di un **progetto di investimento** in funzione del tass
 
 Nel caso di un **progetto di indebitamento**, la situazione è speculare:
 
->-La curva del VAN **aumenta con il tasso di sconto**, perché i flussi negativi futuri vengono scontati più pesantemente.
->-Il VAN è negativo per $r<TIR$ e positivo per $r>TIR$
+>- La curva del VAN **aumenta con il tasso di sconto**, perché i flussi negativi futuri vengono scontati più pesantemente.
+>- Il VAN è negativo per $r<TIR$ e positivo per $r>TIR$
+>
 
+***
 
+>[!IMPORTANT]
+>## Si illustri brevemente il metodo del tempo di recupero per il confronto tra due investimenti
+>
+>Il metodo del **tempo di recupero (payback method)** valuta la convenienza di un progetto di investimento in base ai **periodi necessari affinché la cumulata dei flussi di cassa diventi nulla**, cioè affinché l’investimento iniziale venga recuperato. Nel confronto tra più progetti, si **preferisce quello che consente di recuperare l’esborso iniziale nel minor numero di periodi possibil**, purché il **tempo di recupero sia uguale o inferiore** a un valore soglia prefissato chiamato **cut-off**.
+>
+>>Si tratta di un metodo semplice e rapido, ma fortemente approssimato. Il suo principale limite è che non considera i flussi di cassa successivi al periodo di recupero e non tiene conto delle differenze nella durata complessiva dei progetti. Di conseguenza, si potrebbe erroneamente ritenere migliore un progetto con un periodo di recupero più breve, anche se un altro progetto, caratterizzato da un tempo di recupero più lungo, genera flussi di cassa significativamente più elevati negli anni successivi al cut-off.
 
+***
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+>[!IMPORTANT]
+># Qual è la differenza tra regime di capitalizzazione ad interesse semplice e ad interesse composto
+>
+>## Interesse semplice
+>Nel regime di capitalizzazione ad interesse semplice, gli interessi maturano soltanto sull’investimento iniziale:
+>
+>$$
+>\begin{gather}
+>F_1=I_0+rI_0=I_0(1+r) \\
+>F_2=I_0+rI_0+rI_0=I_0(1+2r)
+>\end{gather}
+>$$
+>
+>In generale dopo $n$ periodi:
+>
+>$$
+>F_n=I_0(1+n*r)
+>$$
+>
+>## Interesse composto
+>
+>Nel regime di capitalizzazione ad interesse composto, gli interessi oltre a maturare sull’investimento iniziale, maturano anche sugli interessi generati:
+>
+>$$
+>\begin{gather}
+>F_1=I_0+rI_0=I_0(1+r)\\
+>F_2=I_0+rI_0+rI_0+r*rI_0= I_0(1+2r+r^2) = I_0(1+r)^2 \\
+>\...
+>\end{gather}
+>$$
+>
+>Si può dimostrare che:
+>
+>$$
+>F_n=I_0(1+r)^n
+>$$
+>
+>*In questo caso il capitale cresce in modo esponenziale, perché gli interessi si "compongono".*
