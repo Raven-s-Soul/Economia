@@ -63,11 +63,18 @@ La scheda di commessa è il documento contabile utilizzato nel sistema di contab
 >>I sistemi per processo sono dunque più semplici di quelli per commessa, essendo tutti i costi ricondotti a un unico oggetto (il periodo) e non a una molteplicità di oggetti (le diverse commesse).
 
 
+### Si illustri il concetto di unità di produzione equivalente, con riferimento alla contabilità per processo.
 
+>>Un problema di questi sistemi a contabilità per processo è che, alla fine di un periodo contabile, bisogna assegnare un costo ai prodotti non ancora completati. Le unità parzialmente realizzate non possono essere contabilizzate come se fossero costate quanto le unità completate, perché sino a quel momento si è sostenuta solo una frazione del loro costo pieno.
+>
+>>Sia le unità ancora in corso di trasformazione, sia quelle già completate, devono essere espresse mediante una sola unità di misura per calcolare il costo medio. Questa base è l’unità di produzione equivalente, cioè una quantità equivalente a un’unità completata.
+>
+>>Quello che spesso si ipotizza è che unità in corso di lavorazione siano completate al $50$% a ciascuna di esse si assegna quindi un peso pari a $0.5$%, mentre le unità completate hanno peso . Poi si sommano e si ottiene il numero di unità di equivalenti di produzione nel periodo, da cui si calcola il costo medio unitario.
 
-
-
-
-
-
-
+>[!TIP]
+>## Cosa sono i centri di costo di produzione e i centri di costo di servizio
+>
+>Un centro di costo è un oggetto del costo per il quale si accumulano i costi di una o più attività correlate. Può essere di due tipi: centro di costo di produzione e di centro di costo di servizio
+>
+>- Un **centro di costo di produzione** è un’unità organizzativa che produce un prodotto o un componente, oppure realizza una fase del processo produttivo o un’attività di trasformazione. In un centro di costo di produzione vengono pertanto aggiunti al prodotto **materiali diretti, manodopera diretta e/o costi generali di produzione**.
+>- Un **centro di costo di servizio**, invece, non contribuisce direttamente alla trasformazione del prodotto, ma svolge **attività di supporto** ai centri di produzione, come manutenzione, logistica, amministrazione o controllo qualità.
