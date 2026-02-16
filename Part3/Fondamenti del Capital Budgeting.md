@@ -55,18 +55,65 @@
 
 >Le **obbligazioni irredimibili**, a differenza di quelle a scadenza, **non prevedono mai la restituzione del capitale**. Tuttavia gli investitori ricevono **cedole periodiche in modo perpetuo**.
 
+***
 
+## Come si determina il valore attuale di una rendita fissa costante per infiniti anni? Si dimostri il procedimento di determinazione
 
+>Dimostriamo il procedimento di determinazione del valore attuale di una rendita perpetua costante:
+>
+>$$
+>VA=\frac{F_1}{(1+r)^1} + \frac{F_1}{(1+r)^2} + ... + \frac{F_1}{(1+r)^n}
+>$$
+>
+>Possiamo mettere in evidenza $\frac{F}{1+r}$
+>
+>$$
+>VA=\frac{F_1}{(1+r)} ( 1  + \frac{1}{(1+r)} + ... + \frac{1}{(1+r)^{n-1}})
+>$$
+>
+>L’interno della parentesi è una **serie geometrica infinita** con primo termine $a = 1$ e regione $q = \frac{1}{1+r}$, che converge per $|q|<1$ . La somma della serie è:
+>
+>$$
+>S = \sum^{\infty}_{i=0} \frac{F}{(1+r)^i} = \frac{a}{1-q}= \frac{1}{1-\frac{1}{1+r}} = \frac{1}{\frac{1+r-1}{1+r}} = \frac{1+r}{r}
+>$$
+>
+>Per cui il valore attuale di una rendita perpetua costante è:
+>
+>$$
+>VA = \frac{F}{1+r}S=\frac{f}{1+r}*\frac{1+r}{r}=\frac{F}{r}
+>$$
 
+## Si dimostri la formula del valore attuale di finiti flussi di cassa costanti posticipati
 
-
-
-
-
-
-
-
-
+>Dimostriamo il procedimento di determinazione del valore attuale di $n$ finiti flussi di cassa costanti posticipati:
+>
+>$$
+>VA=\frac{F_1}{(1+r)^1} + \frac{F_2}{(1+r)^2} + ... + \frac{F_n}{(1+r)^n}
+>$$
+>
+>Poiché i flussi sono tutti uguali, possiamo mettere in evidenza
+>
+>$$
+>VA=\frac{F_1}{(1+r)} ( 1  + \frac{1}{(1+r)} + ... + \frac{1}{(1+r)^{n-1}})
+>$$
+>
+>L’interno della parentesi è una **serie geometrica infinita** con primo termine $a = 1$ e regione $q = \frac{1}{1+r}$, La somma della serie è:
+>
+>$$
+>S = \sum^{\infty}_{i=0} \frac{F}{(1+r)^i} = \frac{1-q^n}{1-q} = \frac{1-(\frac{1}{1+r})^{-n}}{1-\frac{1}{1+r}} = \frac{1-(1+r)^{-n}}{\frac{r}{1+r}}
+>$$
+>
+>Per cui il valore attuale di finiti flussi di cassa costanti posticipati è:
+>
+>$$
+>VA = \frac{F}{1+r}S=\frac{F}{1+r}*\frac{1-(1+r)^{-n}}{\frac{r}{1+r}}=F\frac{1-(1+r)^{-n}}{r}
+>$$
+>
+>Moltiplico e divido per $(1+r)^n$
+>
+>$$
+>VA = \frac{F}{r}*\frac{(1+r)^{n}-1}{(1+r)^n}
+>$$
 
 
 
