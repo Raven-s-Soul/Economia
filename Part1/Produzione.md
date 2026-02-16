@@ -74,9 +74,31 @@ Nel breve periodo (STC) ,invece, alcuni input produttivi sono fissi, oppure nel 
 >- Il punto in cui una curva di breve periodo è tangente a quella di lungo periodo rappresenta il livello di output per cui quel fattore fisso è ottimale. 
 >- Le curve sono tangenti perché in quel punto il costo marginale di breve periodo coincide con quello di lungo periodo, e non si intersecano mai perché il costo di breve periodo non può mai essere inferiore al costo minimo ottenibile nel lungo periodo
 
+***
 
+### Costo totale (LTC o STC):
+rappresenta il costo complessivo sostenuto dall’impresa per produrre una certa quantità di output e si ricava dalla somma di costi fissi e variabili.
 
+$$
+LTC(y)=C_F+C_V(y)
+$$
+### Costo medio (LAC o SAC):
+rappresenta il costo per unità di output
 
+$$
+LAC(y)=\frac{LTC}{y}
+$$
+### Costo marginale (LMG o SMG)
+indica l’incremento di costo dovuto ad un aumento marginale di output.
+
+$$
+LMG(y)=\frac{dLTC}{dy}
+$$
+
+>In termini di economie di scala:
+>- se all’aumentare di $y$ il costo medio decresce, siamo in presenza di economie di scala, viceversa siamo in presenza di diseconomie di scala.
+>- Quando il costo marginale è inferiore al costo medio, il costo medio decresce e l’impresa sfrutta economie di scala; quando il costo marginale supera il costo medio, il costo medio aumenta e si manifestano diseconomie di scala.
+>- Di conseguenza, la curva di costo marginale interseca sempre la curva del costo medio nel punto minimo del costo medio.
 
 
 
