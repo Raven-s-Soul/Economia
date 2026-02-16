@@ -20,5 +20,5 @@
 
 1. [Fondamenti del Capital Budgeting](./Part3/Fondamenti%20del%20Capital%20Budgeting.md)
 2. [TIR e tempo di recupero](./Part3/TIR%20e%20Tempo%20di%20recupero.md)
-3. 
+3. [TAN, TAR e TAE; Ammortamento](./Part3/TAN%2C%20TAR%20e%20TAE.md)
 4. [Esercizi](./Part3/Exams.md)
