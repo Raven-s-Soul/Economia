@@ -6,8 +6,14 @@
 3. [Beni sostituti e complementi. Scelta ottima e funzione di utilità](./Part1/Beni%20sostituti%20e%20complementi.md)
 4. [Equilibrio domanda-offerta. Elasticità della domanda](./Part1/Equilibrio%20domanda-offerta.md)
 5. [Produzione; Funzione di produzione e problema del costo minimo, costi opportunità e rette isocosto](./Part1/Produzione.md)
-
-
-
+6. [Esercizi](./Part1/Exams.md)
 
 ### Part 2:
+
+1. 
+2. 
+
+### Part 3:
+
+1. 
+2. 
