@@ -62,6 +62,31 @@ $$
 
 >Indica percentualmente la quota del prezzo di vendita che verrà utilizzata per coprire i costi fissi e, una volta coperti, a generare utile. E’ utile per confrontare due progetti e scegliere il più profittevole.
 
+# Margine di sicurezza
+
+Il margine di sicurezza misura di quanto il volume effettivo di produzione supera il volume di pareggio. Indica quindi la riduzione massima dei volumi che l’impresa può sopportare prima di entrare in perdita.
+
+$$
+MDS = \frac{V_{eff}-V_p}{V_{eff}}
+$$
+
+- $V_{eff}$ = volume effettivo
+- $V_p$ = volume di pareggio
+
+> Un elevato margine di sicurezza indica una situazione economica più solida, poiché l’impresa può sostenere una maggiore contrazione dei volumi prima di andare in perdita.
+
+>[!IMPORTANT]
+># In che cosa consiste la leva operativa?
+>
+>La leva operativa misura di quanto il reddito operativo è sensibile a cambiamenti dei ricavi. L'effetto leva è misurato dal grado di leva operativa:
+>
+>$$
+>\text{grado di leva operativa} = \frac{MDC_T}{\text{reddito}}
+>$$
+>
+>Un alto grado di leva operativa indica che piccoli aumenti di vendita generano grandi profitti, ma anche grandi perdite in caso di calo, a causa dell'elevata incidenza dei costi fissi rispetto a quelli variabili.
+
+
 
 
 
