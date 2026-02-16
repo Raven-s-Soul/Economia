@@ -42,6 +42,29 @@
 >
 >**Il VAN misura operativamente il valore generato da un investimento**. Se il VAN è positivo, allora il progetto è conveniente e genera valore, se è negativo il progetto non è conveniente perché “distrugge” valore.
 
+## Un progetto di investimento con cumulata nulla può avere un VAN positivo? Ed un progetto di indebitamento?
+>
+>Per **cumulata nulla si intende che la somma dei flussi di cassa non attualizzati è pari a zero** per cui:
+>
+>- **Progetto di investimento**: all’inizio ($t = 0$) si registra un flusso di cassa negativo (l’investimento iniziale), mentre per $t > 0$ si hanno flussi di cassa positivi (cedole). Poiché questi flussi positivi si manifestano in momenti futuri, il processo di attualizzazione li riduce. Di conseguenza, essendo la cumulata nulla il **VAN risulta necessariamente negativo**.
+>- **Progetto di indebitamento**: qui la logica è completamente invertita. All’inizio ($t = 0$) si riceve un flusso di cassa positivo (l’indebitamento), seguito per $t > 0$ da flussi negativi (rate del rimborso del debito). Anche in questo caso i flussi futuri vengono attualizzati, ma essendo negativi il loro valore attuale è **inferiore** all’entrata iniziale. Essendo la cumulata nulla, in questo caso il **VAN risulta necessariamente positivo**.
+
+## In che cosa si distinguono le obbligazioni irredimibili da quelle a scadenza?
+
+>Le **obbligazioni a scadenza** hanno una **data di rimborso prefissata**: alla scadenza l’emittente restituisce il capitale agli investitori, che durante la vita del titolo ricevono cedole periodiche come remunerazione. Sono quindi strumenti con una durata definita e prevedibile.
+
+>Le **obbligazioni irredimibili**, a differenza di quelle a scadenza, **non prevedono mai la restituzione del capitale**. Tuttavia gli investitori ricevono **cedole periodiche in modo perpetuo**.
+
+
+
+
+
+
+
+
+
+
+
 
 
 
