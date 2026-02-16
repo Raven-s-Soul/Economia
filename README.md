@@ -12,7 +12,7 @@
 
 1. [Contabilità direzionale Introduzione.](./Part2/Contabilità%20direzionale.md)
 2. [I diagrammi costo-volume; Margine di contribuzione.](./Part2/I%20diagrammi%20costo%20-%20volume%3B%20Margine%20di%20contribuzione.md)
-3. 
+3. [Cost Accounting](./Part2/Cost%20Accounting.md)
 4. 
 
 ### Capital Budgeting (Part 3)
