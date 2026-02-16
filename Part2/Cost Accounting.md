@@ -41,7 +41,7 @@
 >- **Produzione per processo**: i prodotti non sono identificabili come singole unità fino alle fasi finali del ciclo produttivo.
 >   - **contabilità per processo**
 
-# In che cosa consiste e come è strutturata una scheda di commessa?
+## In che cosa consiste e come è strutturata una scheda di commessa?
 
 La scheda di commessa è il documento contabile utilizzato nel sistema di contabilità per commessa per raccogliere e registrare tutti i costi sostenuti per la realizzazione di una specifica commessa, intesa come prodotto, progetto o lotto.
 
@@ -52,6 +52,15 @@ La scheda di commessa è il documento contabile utilizzato nel sistema di contab
 >
 >La somma di tali componenti consente di ottenere il costo totale della commessa, il costo unitario del prodotto e le componenti percentuali del costo pieno.
 
+## Quali sono le principali differenze tra il sistema di costi per commessa e per processo?
+
+>Il sistema di costi per commessa è adottato per quei processi di produzioni per singolo pezzo o per lotti, mentre il sistema di costi per processo è adottato per quei processi di produzioni di serie o per processo.
+
+> Nel sistema di **costi per commessa**, la commessa è costituita da una singola unità o da un lotto di prodotti identici. I costi di produzione vengono rilevati e attribuiti direttamente alla singola commessa, con l’obiettivo di determinare il **costo totale di produzione** della commessa, il **costo unitario del prodotto** e le **componenti percentuali del costo pieno del prodotto**.
+
+>ln un **sistema di costi per processo**, invece, tutti i costi di produzione sostenuti in un determinato periodo contabile (ad esempio un mese) vengono fatti confluire in un unico conto. A tali costi non corrispondono singole unità o lotti specifici; tuttavia, tenendo traccia delle quantità prodotte, è possibile determinare **il costo medio unitario delle unità realizzate nel periodo contabile considerato**.
+
+>>I sistemi per processo sono dunque più semplici di quelli per commessa, essendo tutti i costi ricondotti a un unico oggetto (il periodo) e non a una molteplicità di oggetti (le diverse commesse).
 
 
 
