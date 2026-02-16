@@ -1,6 +1,7 @@
-## Mercato
+# Produzione
 > Cap 6: dal 1 al 4; Cap 7: dal 1 al 8;
 
+## Mercato
 >In economia, per mercato si intende l’insieme delle relazioni di scambio attraverso cui compratori e venditori interagiscono per determinare il prezzo e la quantità di un bene o di un servizio.
 
 In un mercato:
