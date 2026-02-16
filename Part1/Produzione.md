@@ -57,5 +57,34 @@ Allora i rendimenti di scala si dicono:
 - **Decrescenti** se $f(tz_1,tz_2) < t * y = tf(z_1,z_2)$
 - **Crescenti** se $f(tz_1,tz_2) > t * y = tf(z_1,z_2)$
 
+## Funzione di costo totale
+La **funzione di costo totale** misura quanto un’impresa deve spendere per produrre una certa quantità di output $Y$
+
+### Long-run Total Cost
+Nel lungo periodo (LTC), tutti i fattori produttivi sono variabili. 
+
+L’impresa può scegliere liberamente la combinazione di fattori che minimizza il costo per qualsiasi livello di output.
+
+>La funzione di costo di lungo periodo rappresenta quindi il costo minimo possibile per produrre ogni livello di output $Y$, dato il prezzo dei fattori produttivi.
+
+### Short-run Total Cost
+Nel breve periodo (STC) ,invece, alcuni input produttivi sono fissi, oppure nel caso più generale, l’impresa non può usarne più di una certa quantità predefinita.
+
+>[!CAUTION]
+>- Il punto in cui una curva di breve periodo è tangente a quella di lungo periodo rappresenta il livello di output per cui quel fattore fisso è ottimale. 
+>- Le curve sono tangenti perché in quel punto il costo marginale di breve periodo coincide con quello di lungo periodo, e non si intersecano mai perché il costo di breve periodo non può mai essere inferiore al costo minimo ottenibile nel lungo periodo
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
