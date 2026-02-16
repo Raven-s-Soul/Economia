@@ -1,4 +1,6 @@
 # Contabilità direzionale
+> Cap 1.1 e 1.2, 2.1;
+
 >La **contabilità direzionale** (o management accounting) è l'insieme di strumenti e processi utilizzati per raccogliere, analizzare e comunicare informazioni economiche e finanziarie destinate esclusivamente ai **soggetti interni** all'azienda (manager e vertici aziendali).
 >
 >Il suo scopo principale è supportare il **processo decisionale**, la pianificazione strategica e il controllo della gestione. 
