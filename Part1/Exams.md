@@ -54,12 +54,22 @@ $f(tz_1,tz_2) > t*f(z_1,z_2)$ per cui i rendimenti di scala sono crescenti.
 
 ***
 
+## 13/11/2024 Rappresentare una possibile funzione di domanda ad elasticità costante con elasticità pari in modulo a 3 nel caso in cui il consumatore acquisti 128 unità di prodotto in corrispondenza di un prezzo pari a 2 euro.
 
+Le funzioni di domanda a elasticità costante hanno la forma $q(p)=\frac{a}{p^b}$
+- $\epsilon = |3| \to b = 3$
+- q = 128
+- p = 2
 
+$$
+128 = \frac{a}{2^3} \to a = 128 * 2^3 = 1024
+$$
 
+allora:
 
-
-
+$$
+q(p) = \frac{1024}{p^3}
+$$
 
 
 
