@@ -71,7 +71,11 @@ $$
 q(p) = \frac{1024}{p^3}
 $$
 
+infatti:
 
+$$
+\epsilon = \frac{dq}{dp} \frac p q = 1024 * (-\frac{3}{p^{3+1}}) * \frac{p}{\frac{1024}{p^3}} = -3 = |3|
+$$
 
 
 
