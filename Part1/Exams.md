@@ -36,6 +36,57 @@ $$
 
 La seconda condizione afferma che, nel punto di costo minimo, il saggio marginale di sostituzione tecnica tra $z_1$ e $z_2$ è uguale al rapporto dei loro prezzi.
 
+***
+
+## 23/02/2023 Si fornisca, dimostrandolo, un esempio di funzione di produzione che presenti rendimento di scala crescenti (dimostrando il comportamento)
+
+Una funzione di produzione che ha rendimento di scala crescenti è $y=(z_1+z_2)^2$:
+
+
+$$
+\begin{gather}
+f(tz_1,tz_2) = (tz_1,tz_2)^2 = t^2(z_1,z_2)^2 \\
+t*f(tz_1,tz_2) = t^2(z_1,z_2)^2
+\end{gather}
+$$
+
+$f(tz_1,tz_2) > t*f(z_1,z_2)$ per cui i rendimenti di scala sono crescenti.
+
+***
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
