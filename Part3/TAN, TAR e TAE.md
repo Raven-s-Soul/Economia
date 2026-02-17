@@ -80,3 +80,48 @@
 >A livello finanziario, la spesa del bene avviene tutta in un’unica soluzione. A livello di flussi di cassa, la somma totale di acquisto del bene viene spalmata nei vari anni di vita utile del bene. Quindi avrò n flussi di cassa negativi pari al valore dell’ammortamento lineare calcolato.
 >
 >L’ammortamento gioca un ruolo fondamentale nel **calcolo delle tasse**: le tasse si calcolano sugli utili, la presenza di un ammortamento diminuisce gli utili e quindi anche le tasse.
+
+***
+
+>[!IMPORTANT]
+>## Come si determina il Tasso annuo equivalente a partire dal tasso annuo, considerando una capitalizzazione trimestrale?
+>
+>Il **Tasso Annuo Equivalente (TAE)** è il tasso che misura il rendimento effettivo di un investimento quando il periodo di capitalizzazione non è annuale, ma è frazionato.
+
+>[!TIP]
+>### Dimostrazione della formula del TAE
+>
+>Dopo un anno, il capitale accumulato con capitalizzazione frazionata in $m$ periodi, partendo da un investimento $I_0$ iniziale è:
+>
+>$$
+>V_1 = I_0 (1+ \frac{TAN}{m})^m
+>$$
+>
+>Il Tasso Annuo Equivalente TAE, è per definizione, il tasso che soddisfa la seguente relazione:
+>
+>$$
+>V_1 = I_0 (1+ TAE)
+>$$
+>
+>Eguagliando le due espressioni ottengo:
+>
+>
+>$$
+>I_0 (1+ TAE) = I_0 (1+ \frac{TAN}{m})^m
+>$$
+>
+>Per cui il TAE è definito come:
+>
+>
+>$$
+>TAE = (1+ \frac{TAN}{m})^m -1
+>$$
+>
+>Nel caso di una capitalizzazione trimestrale $m=4$:
+>
+>
+>$$
+>TAE = (1+ \frac{TAN}{4})^4 -1
+>$$
+>
+>*(m=4 perché in un anno ho 4 trimestri).*
