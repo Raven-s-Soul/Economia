@@ -1,5 +1,40 @@
 # Exams Part1
 
+Due beni sono caratterizzati dalla seguente funzione di utilità $$U(x,z)= x^2*z^3$$ E' possibile che esistano valori di prezzo per i quali la soluzione di ottimo sia di frontiera?
+- $$8x + 2z \leq 40$$
+- $$Max (x^2 * z^3)$$
+- $$x > 0$$
+- $$z > 0$$
+
+$$
+\begin{gather}
+\begin{cases}
+8x + 2z = 40 \\
+\frac 8 2 = MRS \frac {\frac {d U}{d X}}{\frac {d U}{d Z}}
+\end{cases}
+\\
+4 = \frac {2x * z^3 }{x^2 * 3z^2} \\
+4 = \frac {2 * z }{x * 3} \to 4 = \frac {2z}{3x}
+\end{gather}
+$$
+
+$$
+\begin{gather}
+\begin{cases}
+8x + 2z = 40 \\
+2z = 12x \\
+\end{cases}
+\\
+12x + 8x = 40 \\
+8*2 + 2z = 40 \\
+\begin{cases}
+ x' = 2 \\
+ z' = 12
+\end{cases}
+\end{gather}
+$$
+
+***
 
 ## 13/11/2019 - A3 Si descriva formalmente il problema del costo minimo di produzione presentando e discutendo la relazione di ottimalità. 
 
@@ -77,49 +112,4 @@ $$
 \epsilon = \frac{dq}{dp} \frac p q = 1024 * (-\frac{3}{p^{3+1}}) * \frac{p}{\frac{1024}{p^3}} = -3 = |3|
 $$
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+***
