@@ -107,7 +107,19 @@ $$
 
 - Pendenza della curva di indifferenza è l’opposto del saggio marginale di sostituzione.
 
-<aside>
+>[!TIP]
+>Esempio il MSR di -0.4 è equivalente a $$A_1x_1 + A_2x_2 = k$$ dove i coefficienti delle x e tutte le variazioni che danno il rapporto richiesto $$\frac {-A_1} {A_2}$$.
+>
+>> esempio con MSR -0.4 quindi $$\to 4x_1 + 10x_2 = k$$
+>
+>Può anche essere visto come una retta ovvero $$y = mx + q$$ se si tratta di beni perfettamente sostituti.
+>
+>$$
+>\begin{gather}
+>x_2 = \frac {-A_1}{A_2} x_1 + \frac k A_2  
+>\end{gather}
+>$$
+
 
 ***
 
