@@ -7,6 +7,7 @@
 > [!WARNING]
 > ### Cobb-Douglas (esponenziale)
 > Un esempio classico di curva di indifferenza regolare è la **curva di indifferenza di Cobb Douglas**: $\quad \mathnormal{U} (x_1 , x_2) = x_1^\alpha \cdot  x_2^\beta$
+> > Soluzione ottima di Cobb Douglass non può essere mai ne di origine ne di frontiera.
 >
 
 Il paniere accessibile è una scelta interna a esso prende il nome di **soluzione interna**, mentre quando è tangente soddisfa la **condizione di tangenza**.
