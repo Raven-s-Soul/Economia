@@ -1,5 +1,7 @@
 # Exams Part1
 
+#### primo esonero 2023-2024
+
 Due beni sono caratterizzati dalla seguente funzione di utilità $$U(x,z)= x^2*z^3$$ E' possibile che esistano valori di prezzo per i quali la soluzione di ottimo sia di frontiera?
 - $$8x + 2z \leq 40$$
 - $$Max (x^2 * z^3)$$
