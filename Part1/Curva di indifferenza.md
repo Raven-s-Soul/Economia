@@ -69,7 +69,7 @@ Il paniere accessibile è una scelta interna a esso prende il nome di **soluzion
 
 ***
 
-# Tasso Marginale di Sostituzione (MSR) sulla curva di indifferenza [^1]
+# Tasso Marginale di Sostituzione (MRS) sulla curva di indifferenza [^1]
 
 **Saggio Marginale** = la quantità di un bene a cui un consumatore rinuncia per avere un'unità in più di un altro, mantenendo la stessa soddisfazione
 
@@ -108,9 +108,9 @@ $$
 - Pendenza della curva di indifferenza è l’opposto del saggio marginale di sostituzione.
 
 >[!TIP]
->Esempio il MSR di -0.4 è equivalente a $$A_1x_1 + A_2x_2 = k$$ dove i coefficienti delle x e tutte le variazioni che danno il rapporto richiesto $$\frac {-A_1} {A_2}$$.
+>Esempio MRS è equivalente a $$A_1x_1 + A_2x_2 = k$$ dove i coefficienti delle x e tutte le variazioni che danno il rapporto richiesto $$\frac {-A_1} {A_2} = MSR$$.
 >
->> esempio con MSR -0.4 quindi $$\to 4x_1 + 10x_2 = k$$
+>> esempio con MRS -0.4 quindi $$\to 4x_1 + 10x_2 = k$$
 >
 >Può anche essere visto come una retta ovvero $$y = mx + q$$ se si tratta di beni perfettamente sostituti.
 >
@@ -119,7 +119,21 @@ $$
 >x_2 = \frac {-A_1}{A_2} x_1 + \frac k A_2  
 >\end{gather}
 >$$
-
+>
+>$$
+>\begin{gather}
+>\frac{P_1}{P_2} = \frac {d Y} {d X} \to \quad \text{esiste un paniere dove sussiste la condizione di tangenza?}\\
+>\frac{P_1}{P_2} = \frac {d Y} {d X} \to \quad \text{Equilibrio, ovvero ogni spostamento risulta ottimo}\\
+>\frac{P_1}{P_2} \geq \frac {d Y} {d X} \to \quad \text{se è vero l'ottimo è una soluzione di frontiera}\\
+>\frac{P_1}{P_2} \leq \frac {d Y} {d X} \to \quad \text{se è vero l'ottimo è tangente}\\
+>\end{gather}
+>$$
+>
+>> #### Analiticamente
+>> "Il tasso marginale di sostituzione sulla curva di indifferenza e il tasso marginale di sostituzione sulla retta di bilancio" in base ai valori capisco se è di frontiera e me lo vado a calcolare.
+>> Mi creo una funzione di utilità come $$U(x_1,x_2) = 4x_1 + 10x_2$$ e la provo nelle funzioni di frontiera.
+>> #### Graficamente
+>> Trovato l'insieme di bilancio, e le curve di indifferenza hanno questo trend o tendenza l'ottimo si trova ...
 
 ***
 
