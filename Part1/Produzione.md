@@ -60,6 +60,14 @@ Allora i rendimenti di scala si dicono:
 - **Decrescenti** se $f(tz_1,tz_2) < t * y = tf(z_1,z_2)$
 - **Crescenti** se $f(tz_1,tz_2) > t * y = tf(z_1,z_2)$
 
+>### Cobb - Douglas
+>$x_1^C*x_2^D=k$ allora:
+>
+>- **Costanti** se C+D = 1
+>- **Decrescenti** se C+D < 1
+>- **Crescenti** se C+D > 1
+
+
 ## Funzione di costo totale
 La **funzione di costo totale** misura quanto un’impresa deve spendere per produrre una certa quantità di output $Y$
 
