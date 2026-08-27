@@ -63,3 +63,19 @@ Elasticità incrociata
 
 >[!CAUTION]
 >Tuttavia le funzioni di domanda del tipo $q = \frac{a}{p^b}$ hanno elasticità costante pari a $|b|$ per tutti i valori di $p$.
+>
+
+***
+
+## La curva di offerta e domanda del mercato
+
+$S(p)=$ funzione di offerta
+
+$q=q(p)$ funzione di domanda
+
+### Equilibrio di mercato
+
+$S(p*)=q(p*)$ L'equilibrio di mercato è il punto dove l'offerta eguaglia la domanda
+
+- eccesso di domanda
+- eccesso di offerta
