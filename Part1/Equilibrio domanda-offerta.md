@@ -79,3 +79,5 @@ $S(p*)=q(p*)$ L'equilibrio di mercato è il punto dove l'offerta eguaglia la dom
 
 - eccesso di domanda
 - eccesso di offerta
+
+> domanda perfettamente anelastica è una retta orizontale in un piano q(p)
