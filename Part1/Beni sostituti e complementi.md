@@ -72,6 +72,13 @@ Il paniere di beni e servizi al consumo è un insieme rappresentativo dei beni e
 >
 >Graficamente le curve di indifferenza di beni perfetti sostituti sono delle rette di pendenza $-a/b$
 >
+>$$
+>\frac{dx_1}{dp_2} > 0
+>$$
+>
+>Sostituti perfetti, quando hanno lo stesse funzionalità (tipo coca-cola e pepsi)
+>
+>
 ># Complementari[^1]
 >
 >I beni perfetti complementi sono invece beni che devono essere consumati congiuntamente in **proporzioni fisse** (es. auto e quattro ruote, scarpa sinistra e destra).
@@ -80,5 +87,11 @@ Il paniere di beni e servizi al consumo è un insieme rappresentativo dei beni e
 >
 >Le curve di indifferenza di beni perfetti complementi sono di tipo a L.
 >
+>$$
+>\frac{dx_1}{dp_2} < 0
+>$$
+>
+>Complementi perfetti, quando vengono comprati in un rapporto fisso come 1:1 o 1:3 ... (scarpa destra e sinistra)
+
 
 [^1]: Dai appunti sul gruppo telegram.
